@@ -141,7 +141,7 @@ export const imageGenModels: Model[] = [{
     provider: 'workers-ai-image',
     type: 'text-to-image'
 }, {
-    id: '@cf/black-fores-labs/flux-1-schell',
+    id: '@cf/black-forest-labs/flux-1-schnell',
     name: 'FLUX.1-Schnell-CF',
     provider: 'workers-ai-image',
     type: 'text-to-image'
