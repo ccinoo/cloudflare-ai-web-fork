@@ -123,7 +123,7 @@ export const textGenModels: Model[] = [{
     name: 'llama-3-8b-instruct',
     provider: 'workers-ai',
     type: 'chat'
-}{
+},{
     id: '@cf/meta/llama-3.2-11b-vision-instruct',
     name: 'llama-3.2-11b-vision-instruct',
     provider: 'workers-ai',
